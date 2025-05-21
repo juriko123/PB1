@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Home</title>
+<style>
+    h1 {
+        border: 2px solid black;
+        text-align: center;
+        padding: 20px;
+    }
+
+    li,p {
+        text-align: center;
+    }
+
+</style>
+</head>
+<body>
+    <h1>Pašterija</h1>
+
+        % if ime:
+            <p> Pozdravljen <strong>{{ime}}</strong></p>
+            <li> <a href="http://localhost:8080/izdelki">Izdelki</a><br>  </li>
+            <li> <a href="http://localhost:8080/kosarica">Košarica</a><br> </li>
+            <li> <a href="/odjava">Odjava</a> </li>
+
+        % else:
+            <li> <a href="http://localhost:8080/izdelki">Izdelki</a><br>  </li>
+            <li> <a href="http://localhost:8080/kosarica">Košarica</a><br> </li>
+            <li> <a href="http://localhost:8080/prijava">Prijava</a><br> </li>
+            <li> <a href="http://localhost:8080/registracija">Registracija</a> </li>
+        % end
+</body>
+</html>

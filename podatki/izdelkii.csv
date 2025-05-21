@@ -1,0 +1,151 @@
+﻿id,naziv,opis,cena,kategorija_id
+1,Polnozrnati špageti,Polnozrnata moka in voda,2.99,1
+2,Klasični špageti,Tradicionalna moka iz trde pšenice,2.59,1
+3,Široki rezanci,Pšenična moka in jajca,3.10,1
+4,Polnozrnati rezanci,Več vlaknin in mineralov,3.20,1
+5,Testenine z jajci,Sveža jajca in moka,2.89,1
+6,Brezjajčne testenine,Pšenična moka in voda,2.49,1
+7,Polnozrnate fusilli,Spiralna polnozrnata oblika,3.49,1
+8,Tricolor fusilli,Barvani z naravnimi barvili,3.69,1
+9,Ječmenovi makaroni,Ječmenova moka za vlaknine,3.90,1
+10,Testenine iz pire,Bogat vir beljakovin in mineralov,4.10,1
+11,Protein testenine,Obogatene z beljakovinami,4.50,1
+12,Polnozrnati makaroni,Kratek votel format,2.80,1
+13,Testenine iz kamuta,Oreškast okus starodavne žitarice,4.20,1
+14,Brezglutenski špageti,Iz koruze in riža primerni za celiakaše,3.99,1
+15,Brezglutenske penne,Iz koruze in riža,4.29,1
+16,Jajčni linguine,Ploščati rezanci s svežimi jajci,3.59,1
+17,Testenine z bučnimi semeni,Bučna moka bogata z minerali,4.05,1
+18,Ajdovi rezanci,Ajdova moka za unikaten okus,3.90,1
+19,Polnozrnati tagliatelle,Dolgi ravni trakovi polnozrnat,3.79,1
+20,Barvni farfalle,Metuljčki barvani s špinačo in paradižnikom,3.19,1
+21,Široki pirini rezanci,Iz polnozrnate pire bogatejši okus,3.45,1
+22,Grahove testenine,Visok delež rastlinskih beljakovin,4.49,1
+23,Lečine testenine,Več beljakovin iz rdeče leče,4.39,1
+24,Testenine s čilijem,Rahlo pikantne iz pšenične moke,3.30,1
+25,Testenine s kurkumo,Zlato obarvane s kurkumo,3.70,1
+26,Kamutovi špageti,Daljši format iz kamuta,3.99,1
+27,Kamutovi fusilli,Spirale iz starodavne žitarice,4.10,1
+28,Pirina orzo,Podobno rižu iz pire,3.00,1
+29,Polnozrnati rigatoni,Debele votle cevi za goste omake,3.10,1
+30,Rižini rezanci,Tanki primerni za azijske jedi,2.99,1
+31,Testenine z gobami,Gobji prah za aromatičen okus,4.59,1
+32,Čokoladne testenine,Sladek kakavov pridih,5.10,1
+33,Korenčkove testenine,Oranžen odtenek z betakarotenom,3.20,1
+34,Rdeča pesa testenine,Živahna barva in posebna aroma,3.60,1
+35,Čemaževi rezanci,Aromatičen okus suhega čemaža,4.00,1
+36,Testenine s špinačo,Zelena barva z okusom špinače,3.50,1
+37,Krompirjevi njoki,Tradicionalni krompirjevi cmoki,3.19,1
+38,Sladki krompirjevi njoki,Oranžen ton in sladek okus,3.69,1
+39,Rezanci s kostanjevo moko,Blago sladek oreškast pridih,4.20,1
+40,Testenine z lanenimi semeni,Več vlaknin iz lanenih semen,3.49,1
+41,Ječmenova kaša,Zrna ječmena za juhe in priloge,1.99,1
+42,Riževa kaša,Lomljena riževa zrna za sladice,1.79,1
+43,Bulgur,Drobljena pšenica za solate,2.10,1
+44,Kuskus,Hitra priprava iz drobljene pšenice,2.50,1
+45,Polnozrnati kuskus,Več vlaknin iz polnozrnate pšenice,2.79,1
+46,Ajdova kaša,Klasična slovenska ajda,2.29,1
+47,Paradižnikova omaka,Osnova za testenine,2.30,2
+48,Bolognese omaka,S paradižnikom in mletim mesom,3.19,2
+49,Carbonara omaka,Kremna s slanino in jajci,3.49,2
+50,Pečena zelenjavna omaka,Iz paprike bučk in paradižnika,3.20,2
+51,Česnova omaka,Močna aroma svežega česna,2.99,2
+52,Pekoča čili omaka,Za ljubitelje pikantnega,2.89,2
+53,Alfredo omaka,Smetana in parmezan,3.59,2
+54,Špinačna omaka,Smetanova s špinačo,3.49,2
+55,Beljakovinska omaka,Obogatena s proteini,4.19,2
+56,Sirna omaka,Mešanica topljenih sirov,3.69,2
+57,Pesto Genovese,Bazilika pinjole oljčno olje,4.10,2
+58,Pesto Rosso,Sušeni paradižniki in pinjole,4.20,2
+59,Gorgonzola omaka,Kremna z modrim sirom,3.99,2
+60,Tržaška omaka,Česen peteršilj oljčno olje,2.59,2
+61,Parmezan v prahu,Klasika za testenine,2.79,2
+62,Nariban sir Grana Padano,Vakuumsko pakiran za testenine,3.49,2
+63,Sir Pecorino,Ovčji sir močan okus,3.99,2
+64,Posušeni paradižniki,Odličen dodatek k omakam,2.40,2
+65,Oljčno olje ekstra deviško,Hladno stiskano visoke kakovosti,5.99,2
+66,Bazilika sveža,Aromatično zelišče,1.49,2
+67,Svež peteršilj,Klasično kuhinjsko zelišče,1.19,2
+68,Mlet česen,Priročen za hitro uporabo,1.79,2
+69,Suh čili v kosmičih,Pikanten dodatek jedem,1.99,2
+70,Začimbna mešanica za testenine,Origano bazilika timijan,2.10,2
+71,Solni cvet,Fina sol za končno dodelavo,2.30,2
+72,Poper v zrnu,Sveže mlet intenzivna aroma,1.99,2
+73,Čebulni prašek,Močna aroma pri kuhanju,1.69,2
+74,Rdeča paprika v prahu,Sladka mleta za barvo in okus,1.59,2
+75,Beljakovinska mešanica,Za višji delež proteina,2.60,2
+76,Suhi kvas,Zadost za kruh in testo,0.99,2
+77,Sir Cheddar,Nariban za kremne omake,3.29,2
+78,Maslo,Mlečna maščoba za kuhanje,2.49,2
+79,Smetana za kuhanje,Tekoča za kremne jedi,1.79,2
+80,Inčuni v olju,Močan morski okus,3.90,2
+81,Kapre,Rahlokisel dodatek,2.69,2
+82,Oljke črne,Dodatek solatam in omakam,2.10,2
+83,Oljke zelene,Polnjene z mandlji,2.20,2
+84,Balzamični kis,Sladko-kisel preliv,3.49,2
+85,Sveže testeninsko testo,Osnova za raviole in rezance,3.99,2
+86,Feta sir,Grški ovčji-kozji sir,2.99,2
+87,Sušeni origano,Sredozemska klasika,1.49,2
+88,Timijan,Rahla grenka nota,1.39,2
+89,Rožmarin,Močna aroma za pečenje,1.59,2
+90,Trikolorna paprika v prahu,Mešanica treh paprik,1.69,2
+91,Lazanja Bolognese,Pripravljena z govejim mesom,4.99,3
+92,Lazanja Vegetariana,Z bučkami špinačo in paradižnikom,4.69,3
+93,Tagliatelle s tartufi,Tartufina omaka gurmanska,7.99,3
+94,Špageti alla Puttanesca,Oljke kapre in paradižnik,5.49,3
+95,Špageti Carbonara,Jajčna smetanova omaka in slanina,5.99,3
+96,Kaneloni s špinačo,Ricotta in špinača,4.99,3
+97,Kaneloni z mesom,Nadevani z mletim mesom,5.29,3
+98,Krompirjevi njoki z golažem,Omaka iz govejega golaža,6.49,3
+99,Ravioli z rikoto in špinačo,Polnjeni s smetanovo omako,5.10,3
+100,Ravioli s sirom,Polnjeni z mešanico sirov,5.00,3
+101,Riževa lazanja,Namesto testa uporabljen riž,4.79,3
+102,Gratinirani rezanci,Pečeni z bešamelom in sirom,5.69,3
+103,Pirini polpeti v omaki,Polpeti iz pire in zelenjave,4.59,3
+104,Makaroni s 4 siri,Kremna sirna omaka,5.39,3
+105,Rižota z morskimi sadeži,Z lignji in škampi,6.19,3
+106,Rižota z gobami,Mešanica gozdnih gob in riža,5.79,3
+107,Mehiški riž,Začinjen s fižolom in koruzo,4.99,3
+108,Polnjene paprike,S paradižnikovo omako in mesom,5.49,3
+109,Polnjeni bučkini zvitki,Nadev iz riža in zelenjave,5.19,3
+110,Musaka,Krompir meso jajčevci,6.49,3
+111,Špageti z morsko omako,Morski sadeži v paradižniku,5.99,3
+112,Penne z zelenjavno omako,Iz bučk in špinače,5.29,3
+113,Fusilli s tuno,Kosi tune v paradižniku,4.99,3
+114,Testeninski narastek,Barvne testenine s sirom,5.59,3
+115,Tortelini s šunko,Smetanova omaka pripravljeni hitro,5.09,3
+116,Tortelini s sirom,V lahki smetanovi omaki,4.89,3
+117,Solatni miks s testeninami,Hladna solata z zelenjavo,3.99,3
+118,Ravioli z bučo,Polnjeni bučni pire v maslu,5.49,3
+119,Polnozrnati špageti z bučkino omako,Pripravljen zdrav obrok,5.69,3
+120,Brezglutenski rezanci z ragujem,Mesni ragu za celiakaše,6.19,3
+121,Špageti aglio e olio,Oljčno olje in česen,4.59,3
+122,Pečena polenta z ragujem,Kosi polente z mesno omako,5.29,3
+123,Zelenjavni kuskus,Orientalske začimbe in zelenjava,4.39,3
+124,Ajdova kaša z gobami,Že kuhana z gozdnimi gobami,4.89,3
+125,Bulgur z zelenjavo,Hitra enolončnica z bučkami,4.59,3
+126,Kus-kus s piščancem,Začinjena jed s piščancem,5.19,3
+127,Burek s sirom,Hrustljavo testo nadevano s sirom,2.99,3
+128,Burek z mesom,Priljubljen prigrizek za pogrevanje,3.49,3
+129,Gratinirane bučke,Polnjene meso in sir,5.59,3
+130,Golaž z njoki,Goveji golaž s krompirjevimi njoki,6.49,3
+131,Svinjski ragu z rezanci,Počasi kuhana svinjina,5.99,3
+132,Pečeni ravioli,Nadevani s sirom in špinačo,5.49,3
+133,Pirini svaljki,Svaljki iz pire v paradižnikovi omaki,4.89,3
+134,Jota,Zelje fižol krompir,5.29,3
+135,Kisla repa s klobaso,Kuhana jed za hitro kosilo,4.99,3
+136,Obara z ajdovimi žganci,Slovenska klasika z žganci,5.79,3
+137,Rižota z bučo,Kremna muškatna buča,5.49,3
+138,Puranji paprikaš,Puranje meso v omaki iz paprike,5.99,3
+139,Testenine alla Norma,Jajčevci paradižnik ricotta,5.59,3
+140,Testenine z lososom,Kremna omaka z dimljenim lososom,6.69,3
+141,Polnjeni lignji,Nadevani z drobtinami in zelišči,7.49,3
+142,Testenine Primavera,Pomladna zelenjava v paradižniku,5.29,3
+143,Pilav z zelenjavo,Riž in mešana zelenjava,4.99,3
+144,Pizza margherita,Klasična zamrznjena pica,3.99,3
+145,Pizza s šunko,Zapečena s šunko in sirom,4.49,3
+146,Pica s tuno,Tuna in čebula,4.69,3
+147,Penne v gorgonzola omaki,Modri sir zelo kremno,5.29,3
+148,Gratiniran krompir,Krompir in sir zapečeno,3.99,3
+149,Krompirjev golaž,Enolončnica s klobaso,4.59,3
+150,Prebranec,Fižol in čebula pikantno,3.99,3
